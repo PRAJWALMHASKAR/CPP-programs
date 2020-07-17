@@ -9,5 +9,6 @@ int main()
    ofile << "geeksforgeeks" << endl; 
    cout << "Data written to file" << endl; 
    ofile.close();  
+   getch();
    return 0; 
 } 
